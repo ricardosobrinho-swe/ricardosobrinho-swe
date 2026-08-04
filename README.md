@@ -10,12 +10,13 @@ Computer Science Student from Brazil
 - 🎓 Computer Science Student
 - 💻 Technical degree in IT at IFTO
 - 🐧 Learning Linux
-- 📚 Currently studying C and Backend Development
+- 📚 Currently studying C# and Backend Development
 
 ## Technologies
-- C (learning)
+- C# (learning)
 - Git/GitHub
 - Linux
 
 ## Goals
 - Software Development
+- Backend Development
